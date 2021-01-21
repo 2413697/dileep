@@ -1,6 +1,3 @@
-
-Result Size: 363 x 456
-/html
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -57,3 +54,21 @@ td {
     <td><label >Where did you hear about ites</label></td>
     <td><select multiple>
     <option >newspaper add</option>
+  <option >internet</option>
+  <option >banners</option>
+  <option >facebook</option>
+</select></td>
+    </tr>
+      <tr>
+    <td><label>comments </label></td>
+    <td><textarea class="form-control" rows="5" ></textarea></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><button type="submit">Submit</button>
+     <button type="submit">Reset</button></td>
+  </tr>
+  </table>
+  </body>
+  </html>
+  
