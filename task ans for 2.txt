@@ -1,0 +1,59 @@
+
+Result Size: 363 x 456
+/html
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+  <style>
+  body{
+  background-color:grey;
+  }
+table,  td {
+ 
+  border-collapse: collapse;
+}
+td {
+  padding: 15px;
+  text-align: left;
+}
+</style>
+<table style="width:100%">
+ 
+       <tr>
+    <td><label>Name  </label></td>
+    <td><input type="text" ></td>
+  </tr>
+  <tr>
+    <td><label >course interested  </label></td>
+    <td><label><input type="checkbox" >PHP</label>
+    <label><input type="checkbox" >Mainframes</label>
+    
+  </tr>
+  <tr>
+    <td></td>
+    <td><label><input type="checkbox" >DW</label>
+    <label><input type="checkbox" >testing</label>
+    
+  </tr>
+  <tr>
+    <td><label >Need Placement?  </label></td>
+    <td><label><input type="radio">yes</label>
+    <label><input type="radio" >No</label>
+    
+  </tr>
+  <tr>
+    <td><label >Education</label></td>
+    <td><select>
+    <option >select</option>
+  <option>B.tech</option>
+  <option>B.sc</option>
+</select></td>
+    </tr>
+    <tr>
+    <td><label >Where did you hear about ites</label></td>
+    <td><select multiple>
+    <option >newspaper add</option>
